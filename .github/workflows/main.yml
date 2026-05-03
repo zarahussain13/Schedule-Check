@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "50 7 * * *"
+    - cron: "58 12 * * *"
 
 jobs:
   print-job:
